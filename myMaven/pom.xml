@@ -1,0 +1,8 @@
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.1</version>
+    开源软件开发实践实验手册 Lab4 开源软件开发中的 DevOps
+    2
+    <scope>test</scope>
+</dependency>
